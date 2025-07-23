@@ -1,4 +1,6 @@
 # zomato-eda-sentiment-clustering
+[![Project Summary](https://img.shields.io/badge/📄-Read%20Project%20Summary-blue)](PROJECT_SUMMARY.md)
+
 NLP-based sentiment analysis and restaurant clustering using Zomato review data.
 # 🍽️ Zomato Sentiment Analysis & Restaurant Clustering
 
