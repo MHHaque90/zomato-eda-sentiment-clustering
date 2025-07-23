@@ -70,6 +70,15 @@ Restaurants were clustered using:
 
 ---
 
+## 📂 Dataset
+
+All datasets used in this project are included in the `/data` folder of this repository:
+
+- `data/Zomato Restaurant reviews.csv`
+- `data/Zomato Restaurant names and Metadata.csv`
+
+---
+
 ## 📦 Project Files
 
 | File Name | Description |
