@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="Zomato Sentiment Analysis & Clustering Banner" />
+</p>
+
 # zomato-eda-sentiment-clustering
 [![Project Summary](https://img.shields.io/badge/📄-Read%20Project%20Summary-blue)](PROJECT_SUMMARY.md)
 
