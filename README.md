@@ -1,9 +1,6 @@
 <p align="center">
   <img src="images/banner.png" alt="Zomato Sentiment Analysis & Clustering Banner" />
 </p>
-<p align="center">
-  <img src="images/banner.png" alt="Zomato Sentiment Analysis & Clustering Banner" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9-blue?logo=python&logoColor=white" />
